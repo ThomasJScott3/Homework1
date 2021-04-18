@@ -10,7 +10,7 @@
 
 -The company was founded in February 2015. It is based in New York City.
 
-*Who are the founders of the company? 
+* Who are the founders of the company? 
 
 -The company was founded by Brandon Krieg, David Ronick, and Ed Robinson. Krieg and Robinson both worked on Wall Street before leaving their six-figure positions
 to found stash in 2015.
@@ -40,7 +40,7 @@ baseline amount.
 
 ## Business Activities:
 
-*What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve?
 
 -Stash was started as a commision free retail investment platform meant to prioritize long-term investments. 
 It allows users to select from a wide range of assets. These include, but are not limited to ETFs as well as individual securities. The point of the app is to make 
@@ -72,7 +72,7 @@ assembled by professional asset managers based on when a given worker is set to 
 In the case of stash however, the human element is taken out of the mix. This is great news for millenials living paycheck to paycheck because they save time and money that
 they would otherwise have spent talking to humans, investigating complex fund prospecti and possibly paying brokerage fees.
 
-*What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 -Unlike Robinhood, which is their primary rival in the millenial-generation Z retail investment space, Stash offers a wide range of services aside from commission-free
 securities and cryptocurrency trading. Among these other services is access to custodial accounts, insurance products and portfolio diversification analysis. The app
@@ -151,7 +151,7 @@ to keep the litigators at bay. The software at the front-end would also need to 
 full-stack implementation in order for the feature to work. From there, stash would probably need to carry out QA as well as beta testing in order to debug the feature
 prior to roll out.
 
-*Why are these technologies appropriate for your solution?
+* Why are these technologies appropriate for your solution?
 
 -These technologies are both neccessary and essential to implement the solution in question. Without effective UI there would be no app. The difference between the UI
 for an app like Stash and something like Fidelity is almost striking. As mentioned in prior sections, effective UI that is simple and user-friendly is crucial. Fidelity
