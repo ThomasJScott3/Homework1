@@ -1,6 +1,8 @@
 ## Profile of the Stash Investing App
 ### By Thomas J. Scott
 
+![logo](https://paymentweek.com/wp-content/uploads/2019/03/xn9eWzew-1024x597.jpeg)
+
 ## Overview and Origin
 
 * Name of company: 
