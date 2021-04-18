@@ -51,7 +51,7 @@ is that the information that is available is confusing, overly technical and gen
 the strategic implementation of rudimentary AI and practical design and UI. The app's algorithms get a sense of where the user is financially as well as where the 
 user wants to be and helps them set target goals for account growth and diversification. 
 
-The app is also helpful with regard to people who are "unbanked." That is a contemporary euphamism for those in the past would not have been able to open an account
+-The app is also helpful with regard to people who are "unbanked." That is a contemporary euphamism for those in the past would not have been able to open an account
 with a brick and mortar financial institution. Stash works with Green Dot bank in order for users to make deposits into their brokerage accounts. The green dot account
 is a checking account and as such users can set up direct deposit with their employers if they wish. When they sign up for the checking account, stash sends the users
 a debit card to make purchases. In addition, some qualifying purchases are eligible for Stash's "stock-back" rewards program. Under this program, users actually get a
@@ -88,6 +88,7 @@ features offers users a powerful tool for personal finance as well as overall fi
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+
 -Stash is part of a key sector in the FinTech space. It spans both retail investing as well as the burgeoning field of robo advisors. Robo advisors have emerged over
 the last decade as a key bridge between new investors and the brokerage space. The use of robo advisors does pose some regulatory questions, however, these are dwarfed
 by the potential benefits to consumers. Robo advisors allow brokers the ability to gather crucial information from retail investors regarding
@@ -96,6 +97,7 @@ by the potential benefits to consumers. Robo advisors allow brokers the ability 
 -Mobile technology has been crucial to the growth of this domain over the past decade.
 
 * What are the other major companies in this domain?
+
 -At this juncture, Stash's primary competitors are RobinHood and Acorns. RobinHood, like Stash offers commission free trading combined with a user-friendly mobile
 interface. There is also M1 Finance, which allows users to purchase fractional shares of a stock. With regard to Acorns, Stash has an advantage in that it includes
 a banking element. The ability to invest in fractional shares allows retail investors to dollar cost average their investments. This means that when he or she invests
@@ -106,13 +108,16 @@ user's stash debit card and then provides a small fractional share as cash back.
 ## Results
 
 * What has been the business impact of this company so far?
+
 -The company has over 5 million users so far. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
 -By their own assertion, the people behind Stash think things are going swimingly. The indicators of success that they note in their blog are the ever-expanding features.
 They boast faster access to funds as well as a larger selection of ETFs and other assets.
 
 * How is your company performing relative to competitors in the same domain?
+
 -Stash is actually behind the pack in terms of users and subscribers. RobinHood as 13 million users and Acorns has roughly 8.5 million users.
 
 ## Recommendations
@@ -126,6 +131,7 @@ review market and media sentiment and put all of this information in front of th
 regards to options trading, which is in itself a highly risky endeavor.
 
 * Why do you think that offering this product or service would benefit the company?
+
 -I think that options, when done correctly are a great way to grow one's portfolio. However, I think they need to be paired with a robust educational tool so that potential
 users know what it is that they are getting into. Furthermore, I think stash as a brokerage is almost too passive. For this reason, I think that adding options will
 actually bring users onto the app more frequently. That being said, use of options in any context bears a great deal of risk. There have been instances where RobinHood
@@ -134,6 +140,7 @@ outcome, perhaps a fail-safe can be added. I suggest a cap on the overall dollar
 the use of call options only in addition to having a cap would greatly reduce the risk posed to retail investors in these types of transactions.
 
 * What technologies would this additional product or service utilize?
+
 -None that already do not already exist. Essentially the main hurdle will be optimizing UI. In my humble opinion, the key features can be cloned from RobinHood. One thing to
 keep in mind is software patents. The cloning of the feature from RobinHood would have to implement reverse-engineered software that is different enough from RobinHood's
 to keep the litigators at bay. The software at the front-end would also need to sync up with the brokerage services on the backend. Essentially there needs to be a clean
@@ -141,6 +148,7 @@ full-stack implementation in order for the feature to work. From there, stash wo
 prior to roll out.
 
 *Why are these technologies appropriate for your solution?
+
 -These technologies are both neccessary and essential to implement the solution in question. Without effective UI there would be no app. The difference between the UI
 for an app like Stash and something like Fidelity is almost striking. As mentioned in prior sections, effective UI that is simple and user-friendly is crucial. Fidelity
 has the market share and book of business to be competitive in this realm whereas Stash is up-and-coming in this regard. In this way, Stash can't afford to alienate potential
