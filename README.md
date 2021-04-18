@@ -15,7 +15,7 @@
 
 * Who are the founders of the company? 
 
--The company was founded by Brandon Krieg, David Ronick, and Ed Robinson. Krieg and Robinson both worked on Wall Street before leaving their six-figure positions at Macquarie Group to found stash in 2015.
+-The company was founded by Brandon Krieg, Ed Robinson (pictured below) and David Ronick. Krieg and Robinson both worked on Wall Street before leaving their six-figure positions at Macquarie Group to found stash in 2015.
 
 ![founders](https://image.cnbcfm.com/api/v1/image/104032319-BrandonEdPhoto.jpg?v=1529472997&w=740&h=416)
 
