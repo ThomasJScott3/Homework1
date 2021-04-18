@@ -159,3 +159,13 @@ To be frank, it is also a shortcut.
 
 
 ## Sources
+1. [Stash Invest Review – Is It Even Worth It?](https://thecollegeinvestor.com/17511/stash-invest-review-5-dollar-investing/)
+2. [The Emergence of the Robo-advisor](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1010&context=prc_papers_
+3. [A financial app with over 5 million users says retirement account sign-ups have surged during the pandemic — especially among people 65 and up](https://www.businessinsider.com/personal-finance/stash-financial-app-ira-retirement-account-openings-surge-2020-7)
+4. [Stash.Blog](https://lp.stash.com/blog/)
+5. [Robo-Advisor Performance Is Only One Piece of the Puzzle](https://www.nerdwallet.com/blog/investing/robo-advisor-performance-is-only-one-piece-of-the-puzzle/)
+6. [What to Expect When You’re Investing: Getting Realistic About Returns](https://www.nerdwallet.com/blog/investing/robo-advisor-performance-is-only-one-piece-of-the-puzzle/)
+7. [Wall Street vets left 6-figure jobs to launch an app that makes investing easy](https://www.cnbc.com/2016/10/21/wall-street-vets-left-6-figure-jobs-to-launch-an-app-that-makes-investing-easy.html)
+8. [Meet our executive team.](https://www.stash.com/about/team)
+9. [Simplified investing app Stash raises $37.5 million Series D as it heads into banking](https://techcrunch.com/2018/02/12/simplified-investing-app-stash-raises-37-5-million-series-d-as-it-heads-into-banking/)
+10. [Stash Banks $112 Million in LendingTree-Led Funding Round](https://www.financemagnates.com/fintech/news/stash-banks-112-million-in-lendingtree-led-funding-round/)
