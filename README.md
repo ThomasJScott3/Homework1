@@ -1,6 +1,4 @@
-FinTech Assignment #1 (due 3/17/2021) (citations and sources required) (Subject: Stash) (SAVE IN .MD FORMAT)
-
-# TITLE: Profile of the Stash Investing App
+#Profile of the Stash Investing App
 
 ## Overview and Origin
 
