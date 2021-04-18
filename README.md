@@ -1,5 +1,5 @@
 ## Profile of the Stash Investing App
-# By Thomas J. Scott
+### By Thomas J. Scott
 
 ## Overview and Origin
 
