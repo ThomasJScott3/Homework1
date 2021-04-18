@@ -166,7 +166,7 @@ To be frank, it is also a shortcut.
 
 ## Sources
 1. [Stash Invest Review – Is It Even Worth It?](https://thecollegeinvestor.com/17511/stash-invest-review-5-dollar-investing/)
-2. [The Emergence of the Robo-advisor](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1010&context=prc_papers_
+2. [The Emergence of the Robo-advisor](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1010&context=prc_papers_)
 3. [A financial app with over 5 million users says retirement account sign-ups have surged during the pandemic — especially among people 65 and up](https://www.businessinsider.com/personal-finance/stash-financial-app-ira-retirement-account-openings-surge-2020-7)
 4. [Stash.Blog](https://lp.stash.com/blog/)
 5. [Robo-Advisor Performance Is Only One Piece of the Puzzle](https://www.nerdwallet.com/blog/investing/robo-advisor-performance-is-only-one-piece-of-the-puzzle/)
