@@ -136,6 +136,8 @@ and financial tools users could conceivably have similar outcomes. The key, I be
 review market and media sentiment and put all of this information in front of the app. In this way, the user of the app will be able to make an informed decision with 
 regards to options trading, which is in itself a highly risky endeavor.
 
+![options](![image](https://user-images.githubusercontent.com/74577306/115133496-ae3d4200-9fd6-11eb-8a0c-1491c0b49958.png)
+
 * Why do you think that offering this product or service would benefit the company?
 
 -I think that options, when done correctly are a great way to grow one's portfolio. However, I think they need to be paired with a robust educational tool so that potential
