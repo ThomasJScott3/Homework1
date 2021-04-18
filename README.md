@@ -130,7 +130,10 @@ They boast faster access to funds as well as a larger selection of ETFs and othe
 
 * How is your company performing relative to competitors in the same domain?
 
--Stash is actually behind the pack in terms of users and subscribers. RobinHood as 13 million users and Acorns has roughly 8.5 million users. In this regard, Stash is lagging behind its competitors in the fee free retail investing domain. However, I think that there is a few important reasons for this. The first is that Stash actually charges a subscription fee to its users. These fees range between $1 and $9 depending on the membership level. In addition, higher fees may apply given an individual user's portfolio size. As such, there is a supply and demand effect going on here. Users are naturally gravitating to platforms like RobinHood that are free. In this regard, Stash is stuck in between a rock and a hard place. Whereas RobinHood epitomizes the active investor side, Acorns epitomizes a robo advisor conducting passive investing.
+-Stash is actually behind the pack in terms of users and subscribers. RobinHood as 13 million users and Acorns has roughly 8.5 million users. In this regard, Stash is lagging behind its competitors in the fee free retail investing domain. However, I think that there is a few important reasons for this. The first is that Stash actually charges a subscription fee to its users. These fees range between $1 and $9 depending on the membership level. In addition, higher fees may apply given an individual user's portfolio size. As such, there is a supply and demand effect going on here. Users are naturally gravitating to platforms like RobinHood that are free. In this regard, Stash is stuck in between a rock and a hard place. Whereas RobinHood epitomizes the active investor side, Acorns epitomizes a robo advisor conducting passive investing. Per the image below, Stash had an early lead, but its competitors caught up.
+
+![early lead](https://user-images.githubusercontent.com/74577306/115133736-6d462d00-9fd8-11eb-9fd2-b6bea68826b4.png)
+
 
 ## Recommendations
 
