@@ -115,6 +115,8 @@ they do so by investing a fixed dollar amount over time. Acorns is also very goo
 purchases to the nearest dollar amount. Interestingly enough, Stash actually has a similar feature. Stash has a "stock back" feature which rounds up purchases on the
 user's stash debit card and then provides a small fractional share as cash back.
 
+![landscape](https://qph.fs.quoracdn.net/main-qimg-1a0ceb8d4c0ccaece9afe30dc32cef5f)
+
 ## Results
 
 * What has been the business impact of this company so far?
@@ -128,7 +130,7 @@ They boast faster access to funds as well as a larger selection of ETFs and othe
 
 * How is your company performing relative to competitors in the same domain?
 
--Stash is actually behind the pack in terms of users and subscribers. RobinHood as 13 million users and Acorns has roughly 8.5 million users. In this regard, Stash is lagging behind its competitors in the fee free retail investing domain. However, I think that there is a few important reasons for this. The first is that Stash actually charges a subscription fee to its users. These fees range between $1 and $9 depending on the membership level. In addition, higher fees may apply given an individual user's portfolio size. As such, there is a supply and demand effect going on here. Users are naturally gravitating to platforms that are free. In this regard, Stash is stuck in between a rock and a hard place. Whereas RobinHood epitomizes the active investor side, Acorns epitomizes a robo advisor conducting passive investing.
+-Stash is actually behind the pack in terms of users and subscribers. RobinHood as 13 million users and Acorns has roughly 8.5 million users. In this regard, Stash is lagging behind its competitors in the fee free retail investing domain. However, I think that there is a few important reasons for this. The first is that Stash actually charges a subscription fee to its users. These fees range between $1 and $9 depending on the membership level. In addition, higher fees may apply given an individual user's portfolio size. As such, there is a supply and demand effect going on here. Users are naturally gravitating to platforms like RobinHood that are free. In this regard, Stash is stuck in between a rock and a hard place. Whereas RobinHood epitomizes the active investor side, Acorns epitomizes a robo advisor conducting passive investing.
 
 ## Recommendations
 
