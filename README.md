@@ -91,6 +91,8 @@ features offers users a powerful tool for personal finance as well as overall fi
 
 -Gamification is a key feature. However, more generally the core strength of stash's software implementation lies in it's user interface. With regard to gamification, the platform uses a series of incentives to coax the user into investing more money with them. The goal here is to help the user save more money long-term. It is helpful to the user because reaching acheivements gives them a sense of accomplishmment. In the same vein, there also needs to be an effective app interface to make this happen. Stash is available in both the iOS and Android app marketplaces and is therefore built on Apple and Google's IDEs for those respective platforms.
 
+![gamification](https://w2y4n4r7.stackpathcdn.com/wp-content/uploads/2019/07/stash-invest.png)
+
 ## Landscape:
 
 * What domain of the financial industry is the company in?
