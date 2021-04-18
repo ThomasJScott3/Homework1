@@ -17,6 +17,8 @@
 
 -The company was founded by Brandon Krieg, David Ronick, and Ed Robinson. Krieg and Robinson both worked on Wall Street before leaving their six-figure positions at Macquarie Group to found stash in 2015.
 
+![founders](https://image.cnbcfm.com/api/v1/image/104032319-BrandonEdPhoto.jpg?v=1529472997&w=740&h=416)
+
 * How did the idea for the company (or project) come about?
 
 -The company was inteded to target millenials, but has since broadened its reach.
