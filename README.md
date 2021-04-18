@@ -13,8 +13,7 @@
 
 * Who are the founders of the company? 
 
--The company was founded by Brandon Krieg, David Ronick, and Ed Robinson. Krieg and Robinson both worked on Wall Street before leaving their six-figure positions
-to found stash in 2015.
+-The company was founded by Brandon Krieg, David Ronick, and Ed Robinson. Krieg and Robinson both worked on Wall Street before leaving their six-figure positions at Macquarie Group to found stash in 2015.
 
 * How did the idea for the company (or project) come about?
 
@@ -84,7 +83,7 @@ features offers users a powerful tool for personal finance as well as overall fi
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
--Gamification is a key feature. However, more generally the core strength of stash's software implementation lies in it's user interface.
+-Gamification is a key feature. However, more generally the core strength of stash's software implementation lies in it's user interface. With regard to gamification, the platform uses a series of incentives to coax the user into investing more money with them. The goal here is to help the user save more money long-term. It is helpful to the user because reaching acheivements gives them a sense of accomplishmment. In the same vein, there also needs to be an effective app interface to make this happen. Stash is available in both the iOS and Android app marketplaces and is therefore built on Apple and Google's IDEs for those respective platforms.
 
 ## Landscape:
 
@@ -97,7 +96,7 @@ potential retirement age. Stash is also in the retail investing space. Like Robi
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
--Mobile technology has been crucial to the growth of this domain over the past decade.
+-Mobile technology has been crucial to the growth of this domain over the past decade. Like most industries, digitization has taken the investment space by storm. The ability to manage investments anytime from anywhere with access to key information and guidance has been a game-changer. In addition, the adoption of machine learning and AI have allowed for better outcomes for users. These days, there is no need to trust the judgment of an expensive broker when the machines can do it cheaper as well as with greater precision and clarity. But the core innovation in this space in my opinion has been the natural evolution of clean crisp user interfaces that have allowed users to flock to these platforms in droves.
 
 * What are the other major companies in this domain?
 
