@@ -56,6 +56,7 @@ the strategic implementation of rudimentary AI and practical design and UI. The 
 user wants to be and helps them set target goals for account growth and diversification. 
 
 ![Diversification](https://24xwjx3syvto31mpq933651e-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/pasted-image-0-1-515x1024.png)
+
 -The app is also helpful with regard to people who are "unbanked." That is a contemporary euphamism for those in the past would not have been able to open an account
 with a brick and mortar financial institution. Stash works with Green Dot bank in order for users to make deposits into their brokerage accounts. The green dot account
 is a checking account and as such users can set up direct deposit with their employers if they wish. When they sign up for the checking account, stash sends the users
