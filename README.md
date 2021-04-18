@@ -21,13 +21,7 @@
 
 * How did the idea for the company (or project) come about?
 
--The company was inteded to target millenials, but has since broadened its reach.
-According to Krieg, the main idea is to adddress "the lack of financial security is a rapidly escalating issue in the U.S. Stash's goal since day one
-has been to help the masses of underserved Americans jump start their journey towards building a healthy and prosperous future." This service is particularly relevant
-given that 63% of Americans have less than $500 in their bank account to cover for an emergency expense. The app also fills another void: roughly half of Americans
-have no assets in the stock market. The retirement and wealth-building implications of this are frightening to say the least. Stash hopes to remedy this disparity with
-access to a diverse array of ETFs, individual stocks as well as custodial accounts and even life insurance. In essence, they seek to bridge the investment gap through
-enhanced access to retail banking and investment as well as crucial information for entry level users.
+-The company was inteded to target millenials, but has since broadened its reach. According to Krieg, the main idea is to adddress "the lack of financial security is a rapidly escalating issue in the U.S. Stash's goal since day one has been to help the masses of underserved Americans jump start their journey towards building a healthy and prosperous future." This service is particularly relevant given that 63% of Americans have less than $500 in their bank account to cover for an emergency expense. The app also fills another void: roughly half of Americans have no assets in the stock market. The retirement and wealth-building implications of this are frightening to say the least. Stash hopes to remedy this disparity withaccess to a diverse array of ETFs, individual stocks as well as custodial accounts and even life insurance. In essence, they seek to bridge the investment gap through enhanced access to retail banking and investment as well as crucial information for entry level users.
 
 * How is the company funded? How much funding have they received?
 
