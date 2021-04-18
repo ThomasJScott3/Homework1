@@ -1,4 +1,4 @@
-#Profile of the Stash Investing App
+##Profile of the Stash Investing App
 
 ## Overview and Origin
 
@@ -91,9 +91,13 @@ features offers users a powerful tool for personal finance as well as overall fi
 
 -Stash is part of a key sector in the FinTech space. It spans both retail investing as well as the burgeoning field of robo advisors. Robo advisors have emerged over
 the last decade as a key bridge between new investors and the brokerage space. The use of robo advisors does pose some regulatory questions, however, these are dwarfed
-by the potential benefits to consumers. Robo advisors allow brokers the ability to gather crucial information from retail investors regarding
+by the potential benefits to consumers. Robo advisors allow brokers the ability to gather crucial information from retail investors regarding their background as well as their
+potential retirement age. 
+-Stash is also in the retail investing space. Like RobinHood and other commission-free brokerage apps, it allows users to buy and sell securities without paying a portion of the
+sale to the platform. In this way, Stash is different from investment platforms such as E-Trade and Charles Schwab.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
 -Mobile technology has been crucial to the growth of this domain over the past decade.
 
 * What are the other major companies in this domain?
