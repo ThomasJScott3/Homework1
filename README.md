@@ -1,4 +1,5 @@
-##Profile of the Stash Investing App
+## Profile of the Stash Investing App
+# By Thomas J. Scott
 
 ## Overview and Origin
 
@@ -92,7 +93,7 @@ features offers users a powerful tool for personal finance as well as overall fi
 -Stash is part of a key sector in the FinTech space. It spans both retail investing as well as the burgeoning field of robo advisors. Robo advisors have emerged over
 the last decade as a key bridge between new investors and the brokerage space. The use of robo advisors does pose some regulatory questions, however, these are dwarfed
 by the potential benefits to consumers. Robo advisors allow brokers the ability to gather crucial information from retail investors regarding their background as well as their
-potential retirement age. Stash is also in the retail investing space. Like RobinHood and other commission-free brokerage apps, it allows users to buy and sell securities without paying a portion of the sale to the platform. In this way, Stash is different from investment platforms such as E-Trade and Charles Schwab.
+potential retirement age. Stash is also in the retail investing space. Like RobinHood and other commission-free brokerage apps, it allows users to buy and sell securities without paying a portion of the sale to the platform. In this way, Stash is different from investment platforms such as E-Trade and CharlesSchwab.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -111,12 +112,12 @@ user's stash debit card and then provides a small fractional share as cash back.
 
 * What has been the business impact of this company so far?
 
--The company has over 5 million users so far. 
+-The company has over 5 million users so far. The number of users on the platform actually surged by more than 60% during the pandemic. As such, it can be noted that the impact of the company has been significant to say the least. While the number of users on Stash pales in comparison to that of RobinHood, the number of users at this time is still significant. Stash does have interal data which is prommising. According to reports, users on the platform have been flocking to IRAs and Roth IRAs. The average age of a stash user is 30. In addition, the average income is $50,000 per year. These users have been flocking to custodial accounts due to the volitility surrounding COVID as well as historic stock market highs.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 -By their own assertion, the people behind Stash think things are going swimingly. The indicators of success that they note in their blog are the ever-expanding features.
-They boast faster access to funds as well as a larger selection of ETFs and other assets.
+They boast faster access to funds as well as a larger selection of ETFs and other assets. One key metric that is used in this space is the average annualized return. Stash has tools to help measure this, but I was unable to find a specific number with regard to the average annualized return for the app's users. Acorns, for what it's worth has an average annualized return of 3.49%.
 
 * How is your company performing relative to competitors in the same domain?
 
